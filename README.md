@@ -16,3 +16,8 @@ Grid Layout Classes:
 grid-cols-1: For small screens (default), it will display 1 column per row.
 sm:grid-cols-2: On screens greater than 640px, it will display 2 columns.
 lg:grid-cols-3: On screens greater than 1024px, it will display 3 columns.
+
+### agar multiple z-index ho toh ak dushre ki upar aa kar conflit karta hai 
+==> aise me jiska value jayedh ho vh upar aa jaata hai
+(z-index wale me jisko sabse upar dekhna ho toh uska value sabse jayedh rakhe.)
+toh problem resolve ho jayega.
